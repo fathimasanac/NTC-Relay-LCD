@@ -5,7 +5,7 @@ This project uses an **ATmega2560**, a 16x2 LCD, an **NTC thermistor**, and a re
 ## Circuit Diagram / Simulation
 You can view and run the circuit online using Wokwi:
 
-[Open Simulation in Wokwi](https://wokwi.com/projects/442698805249198081)
+[Open Simulation in Wokwi](https://wokwi.com/projects/442804265175499777)
 
 ## Features
 - Reads temperature from NTC thermistor
